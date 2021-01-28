@@ -1,0 +1,52 @@
+
+html{
+    background: url(images/Screenshot_20210124-223650~2.png) no-repeat center fixed;
+    background-size: cover;
+font-family: 'montserrat' sans-serif;}
+h1{
+    font-size: 3rem;
+    color: #e2dbdb;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 240px;
+}
+button{
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+    background-color: #ee4b08;
+    border-color: #F05F44;
+    height: 35px;
+    padding: 25px;
+    line-height: 5px;
+    color: #e2dbdb;
+    
+}
+.btn:hover{
+    background-color:  skyblue;
+border-color: skyblue;
+border-width: 4px;
+
+}
+
+hr{
+    border-color:  #ee4b08;
+    border-width: 1px;
+    max-width: 65px;
+    position: relative;
+    top: 410px;
+}
+.container{
+    position: absolute;
+    top: 530px;
+    left: 720px;
+}
+section{
+    height: 10px;
+}
+
+a{
+    color: #eee;
+}
